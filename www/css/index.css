@@ -1,0 +1,26 @@
+
+label{
+    text-align: center;
+}
+
+.swipeleft{
+    text-decoration: line-through;
+}
+
+h4{
+    text-align: center;
+}
+
+#tacheTermines li{
+    background-color: rgb(1, 59, 1);
+    color: white;
+}
+
+.contactList{
+    display: flex;
+    flex-direction: row;
+}
+
+#add-form{
+    display: none;
+}
